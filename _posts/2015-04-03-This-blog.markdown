@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Welcome to the development blog of WebInfoCard"
+date:   2015-04-03 10:26:06
+categories: Info Introduction
+---
+This blog will follow the development of WebInfoCard.
+
+WebCardInfo is a simple website builder. We are commited to only use static files in our hosting. And this way make hosting much easier and hopefully faster.
+
+As a part of WebCardInfo we plan to offer hosting. This way we will get the benefits we offer our users.
+
+This blog will follow the technicall part of the development.
+
+easter 2015
